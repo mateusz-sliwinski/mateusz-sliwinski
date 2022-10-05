@@ -7,9 +7,8 @@ I'm an **Student🎓** . I'm a **Tech Enthusiast 💻 😃** passionate about le
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently working on MedicalCenter Project
+- 🔭 I’m currently working on Myopia Project
 - 🌱 I’m currently learning Data Science ☕
-- 💬 Ask me about Python, Django
 - 🎉 Fun-Fact: I ❤️ LOTR Movies
 
 
