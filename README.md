@@ -25,4 +25,4 @@ I'm an **Student🎓** . I'm a **Tech Enthusiast 💻 😃** passionate about le
 
 ### 🚀 Quick Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mati1432&show_icons=true&locale=en&layout=compact" alt="mati1432" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateusz-sliwinski&show_icons=true&locale=en&layout=compact" alt="mateusz-sliwinski" /></p>
